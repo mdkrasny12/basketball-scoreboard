@@ -2,10 +2,8 @@ const express = require('express');
 const app = express();
 const port = 3000;
 
-let prueba = "hola desde ofician";
+let prueba = "hola desde soler";
 
-
-let prueba2 = "hola desde ofician";
 let homeScore = 0;
 let awayScore = 0;
 let matchTimer = null;
